@@ -1,5 +1,5 @@
 # Myntra-clone
-Myntra-Clone
+This is Myntra-Clone
 
 <img width="917" alt="m1" src="https://user-images.githubusercontent.com/125984550/233802692-85f9708e-4fef-4865-af04-67b03b5c970d.png">
 <img width="919" alt="m2" src="https://user-images.githubusercontent.com/125984550/233802693-df430c58-7a88-41e9-8cf2-1e08f4f36342.png">
